@@ -1,6 +1,6 @@
-# Uso de Amazon Sagemaker para Semantic Segmentation de imagenes medicas.
+# Uso de Amazon Sagemaker para segmentation semántica de imagenes medicas.
 
-La notebook muestra un pipeline de inferencia para segmentacion semantica de imagenes medicas usando Amazon Sagemaker con el algoritmo de semantic segmentation de AWS. En este caso se trata de imagenes de tomografias computadas del baso.
+Demostración de armado de pipeline de inferencia para segmentacion semantica de imagenes medicas usando Amazon Sagemaker con el algoritmo de semantic segmentation de AWS. En este caso se trata de imagenes de tomografias computadas del baso.
 Muestra desde el entrenamiento hasta el armado del endpoint de inferencia, junto con su uso.
 
 Se basa en el dataset: 
